@@ -1,6 +1,6 @@
 # mailaundry
 
-A new Flutter project.
+A Laundry management app
 
 ## Getting Started
 
